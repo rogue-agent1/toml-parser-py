@@ -54,4 +54,4 @@ file = "/var/log/app.log"
     print(f"Server: {data['server']}")
     print(f"DB engines: {data['database']['engines']}")
     print(f"Log level: {data['logging']['level']}")
-if __name__ == "__main__": demo()\n
+if __name__ == "__main__": demo()
