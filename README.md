@@ -1,0 +1,1 @@
+# toml-parser-py\nTOML Parser - parse TOML config files into Python dicts\n\nZero-dependency Python CLI tool.\n\n## Usage\n```bash\npython3 toml_parser.py\n```\n
